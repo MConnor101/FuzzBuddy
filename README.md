@@ -1,6 +1,12 @@
 # FuzzBuddy
 
-The overall goal of this project: To recreate the famous "Fuzz Face" guitar pedal from 1966 in our own way.
+The overall goal of this project: 
+
+To recreate the famous "Fuzz Face" guitar pedal from 1966 in our own way.
+
+By Connor Donaldson and Tim Gould 
+
+
 ![fuzz-face-pedal](https://github.com/user-attachments/assets/38dbec36-bd87-42f1-8264-8cb17a61fd52)
 
 This is the Fuzz Face guitar pedal that has been used by many popular artists such as Jimi Hendrix. 
@@ -48,4 +54,4 @@ And an Electric Guitar
 
 [IMG_7881.pdf](https://github.com/user-attachments/files/18033664/IMG_7881.pdf)
 
-Here is an enviromental test of the circuit using a waveform generator and observing the output of the FuzzBuddy on the oscilloscope. 
+Here is an enviromental test of the circuit using a waveform generator and observing the output of the FuzzBuddy on the oscilloscope. We got our expected results from the circuit and the tests were successful. 
