@@ -48,4 +48,4 @@ And an Electric Guitar
 
 [IMG_7881.pdf](https://github.com/user-attachments/files/18033664/IMG_7881.pdf)
 
-Here is an enviromental test of the circuit using a waveform generator and observing the output of the FuzzBuddy on the oscilliscope. 
+Here is an enviromental test of the circuit using a waveform generator and observing the output of the FuzzBuddy on the oscilloscope. 
