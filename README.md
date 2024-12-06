@@ -17,4 +17,19 @@ This is the FuzzBuddy circuit that we have created. Of course, it is naturally v
 
 ![LTSpiceSimulationResults](https://github.com/user-attachments/assets/20fd7386-8d93-428e-82a9-f91c065e1bec)
 
-These are the simulation results of the circuit we created. The green wave is the input 
+These are the simulation results of the circuit we created. The green wave is the input voltage from the guitar, and the blue wave is the output voltage from the circuit. 
+The transistors within the circuit allow the combination of AC current and DC current. When the two currents meet, the AC current gets aplified through the transistors. However, the transistors also cause the signal to 'cut', creating the square wave from a sin wave. 
+
+Parts List:
+15k Resistor
+2k Resistor
+2 4k Resistors
+2 AC128 Germanium Transistors
+10.0uF Capacitor
+2.0uF Capacitor
+0.1uF Capacitor
+50k Potentiometer
+500k potentiometer
+2 1/4 inch input audio jacks
+9 Volt source
+And an Electric Guitar
