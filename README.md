@@ -21,15 +21,27 @@ These are the simulation results of the circuit we created. The green wave is th
 The transistors within the circuit allow the combination of AC current and DC current. When the two currents meet, the AC current gets aplified through the transistors. However, the transistors also cause the signal to 'cut', creating the square wave from a sin wave. 
 
 Parts List:
+
 15k Resistor
+
 2k Resistor
+
 2 4k Resistors
+
 2 AC128 Germanium Transistors
+
 10.0uF Capacitor
+
 2.0uF Capacitor
+
 0.1uF Capacitor
+
 50k Potentiometer
+
 500k potentiometer
+
 2 1/4 inch input audio jacks
+
 9 Volt source
+
 And an Electric Guitar
